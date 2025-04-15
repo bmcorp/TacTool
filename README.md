@@ -1,3 +1,16 @@
+<h1 align="center">TacTool</h1>
+
+<p align="center">
+  A tool to explore, structure, and apply vibrotactile design patterns for human-computer interaction.
+</p>
+
+---
+
+# 🌐 Platform Access
+
+You can access Tactool here 👉 [http://185.219.240.36:8090/TacTool/](http://185.219.240.36:8090/TacTool/)
+
+
 # 🧠 TacTool Database Contribution Guide
 
 Welcome to the TacTool project! This guide explains how to contribute by adding new **scientific references** or **guidelines** to the database.
